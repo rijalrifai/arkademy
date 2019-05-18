@@ -1,0 +1,16 @@
+{
+    
+    "name" : "muhamad rijal rifai a.m",
+    "address" : "padaherang",
+    "hobbies" : [ "gaming", "football", "coding","photograph"],
+    "is_married" : false,
+    "school" : {
+        "highSchool" : "Smk Komputama Majenang",
+        "university" : "tidak ada"
+    },
+    "skills" : {
+        "name" : "photograph",
+        "score" : "create tim work"
+    }
+
+}
